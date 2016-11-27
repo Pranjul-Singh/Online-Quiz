@@ -2,6 +2,7 @@
 Online Quiz application for organizer and student both.
 
 Please read instructions carefully before running the main project file.
+PHP files are hosted on quiz.pranjulsingh.com
 
 1.Connect your computer to internet.
 
